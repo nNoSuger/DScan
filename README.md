@@ -38,5 +38,9 @@ python main.py -u "baidu.com" -f "110w.txt" -t 5
 
 Test
 
+Scan baidu.com
+![test1](https://github.com/nNoSuger/DScan/assets/130155594/f5614a56-e7ed-4ed9-8edd-b466d724f759)
+File contents
+![test2](https://github.com/nNoSuger/DScan/assets/130155594/fba4c215-7c34-4de8-b6e7-74a95b1caf73)
 
 
